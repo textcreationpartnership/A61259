@@ -1,0 +1,347 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the death of the Reverend Mr. John Weekes late pastor to a congregation in Bristol, who dyed Nouemb. the 23d. 1698. Ætat. 65. By Mr. Standen.</title>
+            <author>Standen, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61259</idno>
+            <idno type="STC">Wing S5203B</idno>
+            <idno type="STC">ESTC R221859</idno>
+            <idno type="EEBO-CITATION">99833106</idno>
+            <idno type="PROQUEST">99833106</idno>
+            <idno type="VID">37581</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37581)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the death of the Reverend Mr. John Weekes late pastor to a congregation in Bristol, who dyed Nouemb. the 23d. 1698. Ætat. 65. By Mr. Standen.</title>
+                  <author>Standen, Joseph.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed and sold by W. Bonny, on the Back,</publisher>
+                  <pubPlace>Bristol :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>In this edition: on the title page "Standen" is in caps; the "A" of signature A2 is beneath the "s" in "Mortals".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weekes, John --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37581:1" rendition="simple:additions"/>
+            <p>A POEM On the Death of the Reverend <hi>Mr. Iohn Weekes,</hi> Late <hi>Paſtor</hi> to a Congregation in <hi>Briſtol,</hi> Who Dyed <hi>Novemb.</hi> the 23d. 1698. <hi>Aetat.</hi> 65.</p>
+            <p>By Mr. <hi>STANDEN.</hi>
+            </p>
+            <q xml:lang="lat">
+               <l>Dignum laude virum Muſa vetat mori.</l>
+               <bibl>Horat.</bibl>
+            </q>
+            <p>
+               <hi>BRISTOL:</hi> Printed and Sold by <hi>W. Bonny,</hi> on the <hi>Back.</hi> 1699.</p>
+            <pb facs="tcp:37581:2" rendition="simple:additions"/>
+            <pb facs="tcp:37581:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:37581:3"/>
+            <pb n="1" facs="tcp:37581:3" rendition="simple:additions"/>
+            <head>A POEM On the Death of the Reverend Mr. John Weekes.</head>
+            <lg>
+               <l>WHen pow'rful Shades had chas'd the chear<g ref="char:EOLhyphen"/>ing Light,</l>
+               <l>And the chill <hi>Horrours</hi> of the <hi>gloomy</hi> Night</l>
+               <l>Invaded all the dusky Hemiſphere,</l>
+               <l>And ſable Atoms fill'd the lowring Air.</l>
+               <l>When deepeſt Silence weary Eyes did cloſe,</l>
+               <l>And tempted Mortals to a ſoft repoſe:</l>
+               <l>
+                  <pb n="2" facs="tcp:37581:4"/>
+In troubled thoughts, and Dreams abrupt I lay,</l>
+               <l>In vain retir'd from the noiſy Day.</l>
+               <l>I wak't, 'till ominous Sleep return'd agên,</l>
+               <l>And to my eyes appear'd the diſmal Scene.</l>
+               <l>Methought I ſaw the Great <hi>Philander</hi> lie,</l>
+               <l>His dear <hi>Irene</hi> pale, and weeping by:</l>
+               <l>Each Face, but his, a ſetled Grief did wear,</l>
+               <l>And all the Symptoms of a black Deſpair.</l>
+               <l>The force of long Diſeaſe could not controul</l>
+               <l>The Life and vigour of his generous Soul:</l>
+               <l>Nor all the Terrours of approaching Death</l>
+               <l>Could force a Murmur from his parting Breath.</l>
+               <l>Through all the riſing Shades of Death I ſaw</l>
+               <l>Remaining Beams of Majeſty and Awe,</l>
+               <l>
+                  <pb n="3" facs="tcp:37581:4"/>
+Undaunted Courage fixt, and Joy ſerene,</l>
+               <l>And growing hopes of dawning Glory ſeen.</l>
+               <lg>
+                  <l>As when behind an Occidental cloud</l>
+                  <l>The Sun does all his Ev'ning Luſtre ſhrowd,</l>
+                  <l>As he deſcends down to the Weſtern Flood;</l>
+               </lg>
+               <l>Yet through the watry Veil appearing fair,</l>
+               <l>With ſcatter'd Beams does gild the yielding Air.</l>
+               <l>So ſcorn'd he Terrors paſt, and thoſe behind</l>
+               <l>Could not eclipſe the beauty of his Mind.</l>
+               <l>And now the dreadful Shades more thick approach,</l>
+               <l>And on expiring vital Breath encroach:</l>
+               <l>And after all, in haſt came cloſe behind</l>
+               <l>The Univerſal Terror of Mankind.</l>
+               <l>
+                  <pb n="4" facs="tcp:37581:5"/>
+The meagre Tyrant ſtrait advancing nigh</l>
+               <l>Inſulting lifts his fatal Javelin high:</l>
+               <lg>
+                  <l>Thrice he eſſay'd to ſtrike, and thrice recoil'd,</l>
+                  <l>Afraid ſuch awful Goodneſs to behold,</l>
+                  <l>Seem'd brib'd with Virtue, tho' ne'er brib'd with Gold.</l>
+               </lg>
+               <l>The Sons of Hell with eager Joy he'd ſeize,</l>
+               <l>(With Carnage vaſt his hungry Maw t' appeaſe,)</l>
+               <l>Who are condemn'd, when ſpent their lateſt breath</l>
+               <l>To endleſs pains, and ever-living Death;</l>
+               <l>On theſe his fierce reſiſtleſs Rage he ſhows,</l>
+               <l>By theſe his vaſt extended Empire grows:</l>
+               <l>But ſeems unwilling to releaſe the Juſt,</l>
+               <l>And ſend their dying Remnants down to Duſt,</l>
+               <l>
+                  <pb n="5" facs="tcp:37581:5"/>
+And their refined Souls, all gay and bright,</l>
+               <l>To the glad Realms of Joy, and endleſs Light.</l>
+               <l>Thus lingring long the King of Terrors ſtood,</l>
+               <l>Nor wiſht to ſpill the Rev'rend Prophet's Blood;</l>
+               <l>'Till urg'd by the Almighty's Sov'rain Hand,</l>
+               <l>Who over Death has abſolute Command,</l>
+               <l>Into the willing Breaſt his Dart he flings,</l>
+               <l>Depriv'd of all its Flames, and all its Stings.</l>
+               <l>He bows his head, and yields without controul,</l>
+               <l>And in a gentle Sigh he breath'd his Soul.</l>
+            </lg>
+            <lg>
+               <l>The fatal Moment paſt, without relief</l>
+               <l>I ſunk beneath the pond'rous load of Grief.</l>
+               <l>The mighty Sorrows in my Boſom pent</l>
+               <l>Impetuous roſe, too big for Tears to vent.</l>
+               <lg>
+                  <pb n="6" facs="tcp:37581:6"/>
+                  <l>From off my Head the gaudy Wreath I tore,</l>
+                  <l>Which for the dear <hi>Almeria</hi>'s ſake I wore,</l>
+                  <l>By her own hands freſh twin'd not long before.</l>
+               </lg>
+               <l>A gelid Horror ſtruck my trembling Heart,</l>
+               <l>And more than He I felt the Mortal Dart.</l>
+               <l>As when loud Thunders breaking from on high,</l>
+               <l>And forked Lightnings through the flaming Sky,</l>
+               <l>With maſſy Bolts the Rocks and Mountains tear,</l>
+               <l>And fill around th' aſtoniſht World with fear;</l>
+               <l>The Earth convulſt with hideous craſhing breaks,</l>
+               <l>Recoils, and frighted to the Centre ſhakes.</l>
+               <l>To ſtarted back my Soul, 'till now unmov'd,</l>
+               <l>Though oft th' efforts of angry Fate I prov'd.</l>
+               <l>
+                  <pb n="7" facs="tcp:37581:6"/>
+Sorrows on Sorrows rowl'd, and ſore oppreſt</l>
+               <l>The ſinking Powers of my wounded Breaſt.</l>
+               <l>'Till looking upwards to the Radiant Skies,</l>
+               <l>More joyous Objects met my wondring Eyes.</l>
+            </lg>
+            <lg>
+               <l>A Tract of Light appear'd ſerene and fair,</l>
+               <l>And ſhining Glory blazon'd all the Air,</l>
+               <l>Up to the Verge of Heav'n and Chryſtal Gate,</l>
+               <l>At whoſe bright Entrance flaming Seraphs wait:</l>
+               <lg>
+                  <l>And all the way, <hi>by Heav'ns dread King's command</hi>
+                  </l>
+                  <l>Arrang'd in cloſe and beauteous order ſtand,</l>
+                  <l>On either ſide the numerous faithful Band,</l>
+               </lg>
+               <l>(Nor dreaded they proud <hi>Lucifer</hi>'s alarms)</l>
+               <l>With maſſy golden Shields, and lucent Arms.</l>
+               <l>
+                  <pb n="8" facs="tcp:37581:7"/>
+And in the midſt, up to the bleſt Abode</l>
+               <l>The Glorious Saint all in gay Triumph rode,</l>
+               <l>High mounted on a gorgeous Chariot bright,</l>
+               <l>Whoſe dazling ſplendor cruſht the wounded ſight:</l>
+               <l>Saluted, as he paſs'd the Heav'nly Crowd,</l>
+               <l>With ſhouts of Joy, and <hi>Hallelujahs</hi> loud.</l>
+               <l>Thus through the Air, the dark confines of Hell,</l>
+               <l>Where the faln Spirits, and ſwarthy <hi>Daemons</hi> dwell,</l>
+               <l>They ſwiftly paſs'd, while trembling far away</l>
+               <l>Th' Infernal Legions fled th' approach of Day:</l>
+               <lg>
+                  <l>And mad with Envy, gnaſhing from afar,</l>
+                  <l>They groveling proſtrate lay in pannick fear,</l>
+                  <l>And foam'd and rag'd and ſhook their <hi>Snaky</hi> hair.</l>
+               </lg>
+               <l>
+                  <pb n="9" facs="tcp:37581:7"/>
+Mean while the pompous Triumph made its way</l>
+               <l>To the fair Entrance of Eternal Day.</l>
+               <l>Ten thouſand thouſand <hi>Angel-Trumpets</hi> ſound,</l>
+               <l>And the vaſt Realms of Heav'n all eccho'd round.</l>
+               <l>My feeble Sight no longer could purſue</l>
+               <l>The glorious Viſion now beyond my View.</l>
+            </lg>
+            <lg>
+               <l>This Scene a while my Sorrows did reſtrain,</l>
+               <l>'Till all the gloomy Thoughts return'd again.</l>
+               <l>In vain, alas, I rov'd from place to place,</l>
+               <l>My Terrors with my flight kept equal pace,</l>
+               <l>I wander'd to a Grove, whoſe darkſome ſhade</l>
+               <l>Might ſeem a fit Receſs for Sorrow made:</l>
+               <l>
+                  <pb n="10" facs="tcp:37581:8"/>
+Where in the midſt a Temple great appear'd,</l>
+               <l>With lofty Head on <hi>Dorick</hi> Pillars rear'd;</l>
+               <l>Whoſe wide and open Portals did diſplay</l>
+               <l>A vaſt Aſſembly on the ſolemn Day,</l>
+               <l>The ſolemn Day, when from the <hi>ſable Chair,</hi>
+               </l>
+               <l>With Artleſs Sighs, and with a mournful Air,</l>
+               <lg>
+                  <l>Divine <hi>Cleander</hi> to the Crowd addreſt,</l>
+                  <l>With Voice, and Geſture, Paſſion deep expreſt,</l>
+                  <l>And ſtirr'd freſh Grief in ev'ry troubled Breaſt:</l>
+               </lg>
+               <l>For as the vaſt and publick Loſs he ſhow'd,</l>
+               <l>From numerous Eyes the briny Currents flow'd.</l>
+               <l>In penſive Shades from hence retir'd I ſate,</l>
+               <l>And thus I mourn'd inexorable Fate.</l>
+            </lg>
+            <lg>
+               <pb n="11" facs="tcp:37581:8" rendition="simple:additions"/>
+               <l>Farewel, Farewel, the Deareſt, and the Beſt,</l>
+               <l>From this vain World gone up to endleſs Reſt.</l>
+               <l>The brav'ſt, the faithful'ſt Friend I ever knew,</l>
+               <l>Always careſſing, and yet always true.</l>
+               <l>No more ſhall I behold that chearful Face,</l>
+               <l>Nor ſee that awful Majeſty and Grace.</l>
+               <l>No more the charming Prophet's Voice attend,</l>
+               <l>And Pray'rs to Heav'n no more together ſend.</l>
+               <l>No more ſhall he ſad Hearts with Joy inſpire,</l>
+               <l>Nor kindle frozen Souls with Heav'nly Fire.</l>
+               <l>No more ſhall he, with Nobleſt Zeal poſſeſt</l>
+               <l>Conduct the Righteous to Eternal Reſt.</l>
+               <l>No more ſhall he pronounce the dreadful Word,</l>
+               <l>Nor brandiſh up aloft the flaming Sword,</l>
+               <l>
+                  <pb n="12" facs="tcp:37581:9"/>
+The <hi>Sword of God,</hi> nor tell the Joys above,</l>
+               <l>And all the Pleaſures of that World of Love.</l>
+               <l>No more ſhall he the wicked Rage oppoſe,</l>
+               <l>Nor plead the Orphans and the Widdows Cauſe;</l>
+               <l>No more ſhall others Sorrows break his Reſt,</l>
+               <l>No more ſhall help the Injur'd and Oppreſt.</l>
+               <l>No more ſhall we in ſweet Converſes walk,</l>
+               <l>No more of high Caeleſtial Wonders talk;</l>
+               <l>Untill the laſt <hi>Archangel-Trump</hi> ſhall ſound,</l>
+               <l>"To raiſe the ſleeping Nations under Ground:</l>
+               <l>And the Great God in flaming Vengeance come,</l>
+               <l>To ſpeak to all the World the final Doom.</l>
+               <l>Then may I ſee the Mighty Prophet's Face</l>
+               <l>With a more God-like Air, and Heav'nly Grace:</l>
+               <lg>
+                  <pb n="13" facs="tcp:37581:9"/>
+                  <l>Then may We with redoubled Gladneſs meet,</l>
+                  <l>May I his State with loud Applauſes greet,</l>
+                  <l>And ſit beneath the <hi>Great Philander</hi>'s Feet.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>And now the gloomy Shades were chas't away,</l>
+               <l>And fled apace before the coming Day:</l>
+               <l>Yet blacker ſtill the Scene of Horrour grew,</l>
+               <l>I wak't and found the fatal Viſion true.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
